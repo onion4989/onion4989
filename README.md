@@ -19,7 +19,7 @@
 
 <br />
 
-## 💡 私の得意分野
+## 💡 私の分野
 * 🎨 Figmaをメインとしたデザイン構築
 * 🖌️ Photoshopを利用した画像加工やマニュピレーションなど
 * 🚀 Next.js (App Router) / TypeScript をメインとしたWebアプリケーション開発
@@ -32,11 +32,11 @@
 
 | プロジェクト | 概要 | 使用技術 | リンク |
 | :--- | :--- | :--- | :--- |
-| My Portfolio | メインPTサイト | Next.js, TS | [Demo](https://portfolio.see-u-soon.design/) / [Repo](https://github.com/onion4989/next-portfolio) |
-| サブスクMEMO | サブスク管理サイト | Next.js, TS, Tailwind CSS | [Demo](https://subscmemo.see-u-soon.design/) / [Repo](https://github.com/onion4989/subscription-memo) |
-| CAKE SHOP DEMO | 実験的なECWebサイト | Next.js, TS, Prisma | [Demo](https://cakeshop.see-u-soon.design/) / [Repo](https://github.com/onion4989/shop-demo) |
-| CITRA | 架空のドリンクサイト | Next.js, TS, Docker | [Demo](https://citra.see-u-soon.design/) / [Repo](https://github.com/onion4989/citra) |
-| GLASSROOM | 眼鏡のDEMOサイト | Next.js, TS | [Demo](https://glassroom.see-u-soon.design/) / [Repo](https://github.com/onion4989/glassroom) |
+| My ポートフォリオ | メインPTサイト | Next.js, TS | [Demo](https://portfolio.see-u-soon.design/) / [Repo](https://github.com/onion4989/next-portfolio) |
+| サブスクMEMO | サブスク管理サイト | Next.js, TS, Tailwind, Prisma, Docker | [Demo](https://subscmemo.see-u-soon.design/) / [Repo](https://github.com/onion4989/subscription-memo) |
+| CAKE SHOP DEMO | 実験的なECWebサイト | Next.js, TS, Tailwind, Prisma, Docker | [Demo](https://cakeshop.see-u-soon.design/) / [Repo](https://github.com/onion4989/shop-demo) |
+| CITRA | 架空のドリンクサイト | Next.js, TS | [Demo](https://citra.see-u-soon.design/) / [Repo](https://github.com/onion4989/citra) |
+| GLASSROOM | 架空の眼鏡サイト | Next.js, TS, GSAP | [Demo](https://glassroom.see-u-soon.design/) / [Repo](https://github.com/onion4989/glassroom) |
 
 ---
 
@@ -50,7 +50,6 @@
 
 インフラとツール<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
