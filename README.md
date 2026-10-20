@@ -18,11 +18,11 @@
 
 | プロジェクト | 概要 | 使用技術 | リンク |
 | :--- | :--- | :--- | :--- |
-| My Portfolio | メインPTサイト | Next.js, TS | [Demo](https://portfolio.see-u-soon.design/) / [Repo](https://github.com/...) |
-| サブスクMEMO | サブスク管理サイト | Next.js, TS, Tailwind CSS | [Demo](https://subscmemo.see-u-soon.design/) / [Repo](https://github.com/...) |
-| CAKE SHOP DEMO | 実験的なECWebサイト | Next.js, TS, Prisma | [Demo](https://cakeshop.see-u-soon.design/) / [Repo](https://github.com/...) |
-| CITRA | 架空のドリンクサイト | Next.js, TS, Docker | [Demo](https://citra.see-u-soon.design/) / [Repo](https://github.com/...) |
-| GLASSROOM | 眼鏡のDEMOサイト | Next.js, TS | [Demo](https://glassroom.see-u-soon.design/) / [Repo](https://github.com/...) |
+| My Portfolio | メインPTサイト | Next.js, TS | [Demo](https://portfolio.see-u-soon.design/) / [Repo](https://github.com/onion4989/next-portfolio) |
+| サブスクMEMO | サブスク管理サイト | Next.js, TS, Tailwind CSS | [Demo](https://subscmemo.see-u-soon.design/) / [Repo](https://github.com/onion4989/subscription-memo) |
+| CAKE SHOP DEMO | 実験的なECWebサイト | Next.js, TS, Prisma | [Demo](https://cakeshop.see-u-soon.design/) / [Repo](https://github.com/onion4989/shop-demo) |
+| CITRA | 架空のドリンクサイト | Next.js, TS, Docker | [Demo](https://citra.see-u-soon.design/) / [Repo](https://github.com/onion4989/citra) |
+| GLASSROOM | 眼鏡のDEMOサイト | Next.js, TS | [Demo](https://glassroom.see-u-soon.design/) / [Repo](https://github.com/onion4989/glassroom) |
 
 ---
 
