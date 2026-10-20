@@ -57,4 +57,4 @@
 ---
 
 ## 📊 GitHub Stats
-![repo-spector](./repo-spector.svg)
+![repo-spector](./output/top6_lang.svg)
