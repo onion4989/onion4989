@@ -1,17 +1,31 @@
 <!-- タイピングアニメーション -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;Next.js+%2F+TypeScript;Building+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Design;Web+Developer;Next.js+%2F+TypeScript;Building+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
-## 💡 About Me
-* 🚀 **Focus:** Next.js (App Router) / TypeScript をメインとしたWebアプリケーション開発
-* 🛠 **Strengths:** 保守性の高いコンポーネント設計、パフォーマンス最適化、モダンUIの実装
+<!-- Bio -->
+<div align="center">
+  <h3>👋 ようこそ</h3>
+  <p><strong>Next.js / TypeScript を軸に開発を行うWebエンジニア</strong></p>
+  <p>
+    使いやすい・見やすいデザインをモットーにWeb開発をしています。<br>
+    実務・個人開発問わず、モダンスタックを用いたWebアプリケーション構築を得意としています。
+  </p>
+</div>
 
----
+<br />
+
+## 💡 About Me
+* 🎨 Figmaをメインとしたデザイン構築
+* 🖌️ Photoshopを利用した画像加工やマニュピレーションなど
+* 🚀 Next.js (App Router) / TypeScript をメインとしたWebアプリケーション開発
+* 🛠 保守性の高いコンポーネント設計、パフォーマンス最適化、モダンUIの実装
+
+<br />
 
 ## 🚀 Featured Projects
 採用担当者様向けの実装デモおよびソースコードです。
@@ -28,13 +42,13 @@
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**
+言語とフレームワーク<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Infrastructure & Tools**
+インフラとツール<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
