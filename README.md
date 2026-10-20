@@ -19,7 +19,7 @@
 
 <br />
 
-## 💡 About Me
+## 💡 私の得意分野
 * 🎨 Figmaをメインとしたデザイン構築
 * 🖌️ Photoshopを利用した画像加工やマニュピレーションなど
 * 🚀 Next.js (App Router) / TypeScript をメインとしたWebアプリケーション開発
@@ -27,7 +27,7 @@
 
 <br />
 
-## 🚀 Featured Projects
+## 🚀 My プロジェクト
 採用担当者様向けの実装デモおよびソースコードです。
 
 | プロジェクト | 概要 | 使用技術 | リンク |
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 技術スタック
 
 言語とフレームワーク<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -51,6 +51,9 @@
 インフラとツール<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
 
 ---
 
