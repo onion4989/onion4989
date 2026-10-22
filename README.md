@@ -1,13 +1,17 @@
+<div align="center">
+
+![デモ動画](./assets/ineedtojob.gif)
+
+</div>
+
+<br />
+
 <!-- タイピングアニメーション -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Design;Web+Developer;Next.js+%2F+TypeScript;Building+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 </div>
-
-<br />
-
-![デモ動画](./assets/ineedtojob.gif)
 
 <br />
 
