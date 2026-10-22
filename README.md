@@ -7,6 +7,10 @@
 
 <br />
 
+![デモ動画](./assets/iwanttojob.gif)
+
+<br />
+
 <!-- Bio -->
 <div align="center">
   <h3>👋 ようこそ</h3>
