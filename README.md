@@ -1,6 +1,6 @@
 <div align="center">
 
-![デモ動画](./assets/ineedtojob.gif)
+![デモ動画](./assets/ezgif-optimized.gif)
 
 </div>
 
